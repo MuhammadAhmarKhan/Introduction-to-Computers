@@ -17,3 +17,19 @@ A **computer** is an electronic device that accepts raw data as input, processes
 Computers consist of two main components:
 * **Hardware:** The physical parts such as CPU, RAM, and storage.
 * **Software:** The programs and operating systems that direct the hardware.
+
+## Types of Computers
+
+Computers come in different sizes and types based on what they are used for:
+
+| Type | Main Feature | Common Uses |
+
+| **Supercomputers**  | Fastest processing speeds | Weather models, scientific research |
+| **Mainframes** | Handles huge amounts of data | Bank servers, large businesses |
+| **Microcomputers** | Personal daily devices | Laptops, phones, desktops |
+
+### Other Examples
+Specialized chips inside everyday gadgets:
+- Engine control units in cars
+- Smart watches and fitness bands
+- Smart home devices
