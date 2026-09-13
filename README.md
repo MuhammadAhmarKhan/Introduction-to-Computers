@@ -33,3 +33,34 @@ Specialized chips inside everyday gadgets:
 - Engine control units in cars
 - Smart watches and fitness bands
 - Smart home devices
+
+## History of Computers
+
+Computer evolution spans five distinct generations:
+* *First Generation (1940s–1950s):* Vacuum tubes (e.g., ENIAC).
+* *Second Generation (1950s–1960s):* Transistors replacing vacuum tubes.
+* *Third Generation (1960s–1970s):* Integrated Circuits (ICs).
+* *Fourth Generation (1970s–Present):* Microprocessors and VLSI circuits.
+* *Fifth Generation (Present & Beyond):* Artificial Intelligence and Parallel Processing.
+
+### Sample Processing Concept (C++)
+int main() {
+    cout << "Computer system operational." << endl;
+    return 0;
+}
+
+## Project Workflow & Tools
+- **Version Control System:** Git
+- **Repository Hosting:** GitHub
+
+### Completion Checklist
+- [x] Create GitHub repository
+- [x] Create feature branch
+- [x] Complete 3 meaningful commits
+- [x] Open and review Pull Request
+- [x] Merge Pull Request into main
+
+---
+For official course details, visit the [FAST-NUCES Website](https://nu.edu.pk/).
+
+
