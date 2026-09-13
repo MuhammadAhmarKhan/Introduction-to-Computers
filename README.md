@@ -49,18 +49,7 @@ int main() {
     return 0;
 }
 
-## Project Workflow & Tools
-- **Version Control System:** Git
-- **Repository Hosting:** GitHub
 
-### Completion Checklist
-- [x] Create GitHub repository
-- [x] Create feature branch
-- [x] Complete 3 meaningful commits
-- [x] Open and review Pull Request
-- [x] Merge Pull Request into main
 
----
-For official course details, visit the [FAST-NUCES Website](https://nu.edu.pk/).
 
 
